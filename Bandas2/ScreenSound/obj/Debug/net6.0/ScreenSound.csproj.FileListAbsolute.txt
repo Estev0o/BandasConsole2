@@ -1,0 +1,14 @@
+C:\Users\vinip\OneDrive\Imagens\ScreenSound-aula-4\ScreenSound\bin\Debug\net6.0\ScreenSound.exe
+C:\Users\vinip\OneDrive\Imagens\ScreenSound-aula-4\ScreenSound\bin\Debug\net6.0\ScreenSound.deps.json
+C:\Users\vinip\OneDrive\Imagens\ScreenSound-aula-4\ScreenSound\bin\Debug\net6.0\ScreenSound.runtimeconfig.json
+C:\Users\vinip\OneDrive\Imagens\ScreenSound-aula-4\ScreenSound\bin\Debug\net6.0\ScreenSound.dll
+C:\Users\vinip\OneDrive\Imagens\ScreenSound-aula-4\ScreenSound\bin\Debug\net6.0\ScreenSound.pdb
+C:\Users\vinip\OneDrive\Imagens\ScreenSound-aula-4\ScreenSound\obj\Debug\net6.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinip\OneDrive\Imagens\ScreenSound-aula-4\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfoInputs.cache
+C:\Users\vinip\OneDrive\Imagens\ScreenSound-aula-4\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfo.cs
+C:\Users\vinip\OneDrive\Imagens\ScreenSound-aula-4\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CoreCompileInputs.cache
+C:\Users\vinip\OneDrive\Imagens\ScreenSound-aula-4\ScreenSound\obj\Debug\net6.0\ScreenSound.dll
+C:\Users\vinip\OneDrive\Imagens\ScreenSound-aula-4\ScreenSound\obj\Debug\net6.0\refint\ScreenSound.dll
+C:\Users\vinip\OneDrive\Imagens\ScreenSound-aula-4\ScreenSound\obj\Debug\net6.0\ScreenSound.pdb
+C:\Users\vinip\OneDrive\Imagens\ScreenSound-aula-4\ScreenSound\obj\Debug\net6.0\ScreenSound.genruntimeconfig.cache
+C:\Users\vinip\OneDrive\Imagens\ScreenSound-aula-4\ScreenSound\obj\Debug\net6.0\ref\ScreenSound.dll
